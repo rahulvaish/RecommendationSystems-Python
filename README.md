@@ -1,3 +1,3 @@
 The **RecSys** project is now called **Surprise**.
 
-*_ SOURCE: https://github.com/NicolasHug/RecSys _*
+*__ SOURCE: https://github.com/NicolasHug/RecSys __*
