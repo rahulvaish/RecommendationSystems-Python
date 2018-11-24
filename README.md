@@ -1,3 +1,3 @@
 # **Branch Contents:**
-##### [1] Surpise : Implementation of Recommendation System's Library - Surprise.
+##### [1] SURPRISE : Implementation of Recommendation System's Library - Surprise.
 ##### [2] RecommendationSystems :  Various examples of different kinds of Recommendation Systems.
