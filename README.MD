@@ -1,3 +1,3 @@
 ##### [Movie Data](https://www.kaggle.com/rahulvaish/moviesdata) 
 
-##### [E-BOOK'S GITHUB REFERENCE](https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python)
+##### [e-Book Reference](https://github.com/PacktPublishing/Hands-On-Recommendation-Systems-with-Python)
