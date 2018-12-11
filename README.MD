@@ -12,5 +12,7 @@
 ##### Simple Recommender - This example recommends latest movies on the basis of various filters applied on the Dataset.
 ![image](https://user-images.githubusercontent.com/689226/49779790-c3807280-fd31-11e8-91e2-1d25d6cea123.png)
 
+<hr>
+
 ## EXAMPLE#3: 
 ##### Collaborative Filtering - This example demonstrates the concept of User-User Similarity and Item-Item Similarity.
