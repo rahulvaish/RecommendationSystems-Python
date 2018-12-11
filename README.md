@@ -1,5 +1,5 @@
 ##### Surprise is a famous library for Recommendation Systems.
-##### FYI: The **RecSys** project is now called **Surprise**. [SOURCE](https://github.com/NicolasHug/RecSys)
+##### FYI: **Surprise** was previously known as **RecSys**. [SOURCE](https://github.com/NicolasHug/RecSys)
 
 <hr>
 
