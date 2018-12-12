@@ -1,5 +1,5 @@
-##### Surprise is a famous library for Recommendation Systems.
-##### FYI: **Surprise** was previously known as **RecSys**. [SOURCE](https://github.com/NicolasHug/RecSys)
+##### Surprise is a library used for building Recommendation Systems in Python.
+##### FYI: **Surprise** was previously known as **RecSys Project**. [SOURCE](https://github.com/NicolasHug/RecSys)
 
 <hr>
 
