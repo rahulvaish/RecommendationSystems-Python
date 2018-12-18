@@ -1,6 +1,8 @@
 # **Branch Contents:**
 #### [1] [SURPRISE](https://github.com/rahulvaish/RecommendationSystems-Python/tree/SURPRISE) : Implementation of Recommendation System using 'Surprise' Library.
 - ###### Recommender using Surprise:
+  * Install Surprise on Anaconda:
+  ![image](https://user-images.githubusercontent.com/689226/50178672-2a51ed00-032b-11e9-83c7-cdfde20d1b50.png)  
   * Use of Pre-defined library functions to compute Recommendations.
 <hr>
 
