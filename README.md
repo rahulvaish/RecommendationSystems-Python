@@ -36,4 +36,4 @@
   * Filter by Run time
   * Filter by Vote Average
   * Filter by Genres
-  ![image](https://user-images.githubusercontent.com/689226/50198287-f39ec580-0370-11e9-961f-b81d5fc7731a.png)
+
