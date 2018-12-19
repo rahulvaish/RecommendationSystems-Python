@@ -3,16 +3,37 @@
 <hr>
 
 ## EXAMPLE#1: 
-##### Simple Recommender-IMDB - This example recommends movies by IMDB Formula applied on Dataset.
-![image](https://user-images.githubusercontent.com/689226/49779723-77353280-fd31-11e8-8389-06a66c520499.png)
+##### MovieRecommender-IMDB - This example recommends movies by IMDB Formula applied on Dataset.
+  * Load the Dataset [movies_metadata.csv]
+  * Apply IMDB Formula
+  ![image](https://user-images.githubusercontent.com/689226/50198368-53956c00-0371-11e9-9fc4-e5c082c351af.png)
+  * Sort movies based on score calculated 
+  * Get the top n movies
+  ![image](https://user-images.githubusercontent.com/689226/50198225-a6baef00-0370-11e9-8a19-5e33f59090f8.png)
 
 <hr>
 
 ## EXAMPLE#2: 
-##### Simple Recommender - This example recommends latest movies on the basis of various filters applied on the Dataset.
-![image](https://user-images.githubusercontent.com/689226/49930673-16e9f080-feeb-11e8-8371-caa489959097.png)
-
+##### MovieRecommender-ParameterFiltering - This example recommends latest movies on the basis of various filters applied on the Dataset.
+  * Load the Dataset [movies_metadata.csv]
+  * Filter by adult/Non-Adult Movie
+  * Filter by year
+  * Filter by Vote Count
+  * Filter by Run time
+  * Filter by Vote Average
+  * Filter by Genres
+  
 <hr>
 
 ## EXAMPLE#3: 
-##### Collaborative Filtering - This example demonstrates the concept of User-User Similarity and Item-Item Similarity.
+##### MovieRecommender-CollaborativeFiltering - This example demonstrates the concept of User-User Similarity and Item-Item Similarity.
+  * Load the Dataset [u.data]
+  * Create User-Movie Rating Relationship Table
+  * Cater Missing Values
+  * Prepare User-User Similarity Matrix Dataframe [Cosine Metric]
+  * Handle diagnols
+  * Create Movie-User Rating Relationship Table
+  * Cater Missing Values
+  * Prepare Item-Item Similarity Matrix Dataframe [Correlation Metric] 
+  * Load the Dataset [u.item]
+  * Prepare user defiend functions to compute Recommendations.
