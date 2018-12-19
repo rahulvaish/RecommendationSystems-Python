@@ -22,7 +22,7 @@
 - ###### Movie Recommender using IMDB Calculation:
   * Load the Dataset [movies_metadata.csv]
   * Apply IMDB Formula
-  ![image](https://user-images.githubusercontent.com/689226/50198335-306abc80-0371-11e9-8f42-dc5fa1158e0d.png)
+  ![image](https://user-images.githubusercontent.com/689226/50198368-53956c00-0371-11e9-9fc4-e5c082c351af.png)
   * Sort movies based on score calculated 
   * Get the top n movies
   ![image](https://user-images.githubusercontent.com/689226/50198225-a6baef00-0370-11e9-8a19-5e33f59090f8.png)
