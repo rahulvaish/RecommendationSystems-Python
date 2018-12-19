@@ -7,7 +7,7 @@ This repository contains self-contained Recommendation System examples.
   
  <hr>
   
-- ###### Movie Recommender using Collaborative Filtering:
+- ###### [Movie Recommender using Collaborative Filtering:](https://github.com/rahulvaish/RecommendationSystems-Python/blob/RecommendationSystems/MovieRecommender-CollaborativeFiltering.ipynb) 
   * Load the Dataset [u.data]
   * Create User-Movie Rating Relationship Table
   * Cater Missing Values
@@ -18,6 +18,7 @@ This repository contains self-contained Recommendation System examples.
   * Prepare Item-Item Similarity Matrix Dataframe [Correlation Metric] 
   * Load the Dataset [u.item]
   * Prepare user defiend functions to compute Recommendations.
+ 
   
  <hr>
   
