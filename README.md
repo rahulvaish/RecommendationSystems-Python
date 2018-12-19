@@ -5,7 +5,7 @@ This repository contains self-contained Recommendation System examples.
   - <a href='#movie-recommender-using-parameter-filtering'>Movie Recommender-Parameter Filtering</a> 
   - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
   
-  <hr>
+ <hr>
   
 - ###### Movie Recommender using Collaborative Filtering:
   * Load the Dataset [u.data]
@@ -19,6 +19,8 @@ This repository contains self-contained Recommendation System examples.
   * Load the Dataset [u.item]
   * Prepare user defiend functions to compute Recommendations.
   
+ <hr>
+  
 - ###### Movie Recommender using IMDB Calculation:
   * Load the Dataset [movies_metadata.csv]
   * Apply IMDB Formula
@@ -27,6 +29,7 @@ This repository contains self-contained Recommendation System examples.
   * Get the top n movies
   ![image](https://user-images.githubusercontent.com/689226/50198225-a6baef00-0370-11e9-8a19-5e33f59090f8.png)
 
+  <hr>
   
 - ###### Movie Recommender using Parameter Filtering:
   * Load the Dataset [movies_metadata.csv]
