@@ -1,37 +1,14 @@
 This repository contains self-contained Recommendation System examples.
 
-
 ### Table of Contents
-- <a href='#surprise'>Surprise</a>
-
-- <a href='#recommendationsystems'>RecommendationSystems</a>
-  - <a href='#movie-recommender-using-imdb-calculation'>Movie Recommender - IMDB Calculation</a> 
-  - <a href='#movie-recommender-using-parameter-filtering'>Movie Recommender - Parameter Filtering</a> 
-  - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender - Collaborative Filtering</a> 
+  - <a href='#recommendationsystems'>RecommendationSystems</a>
+  - <a href='#movie-recommender-using-imdb-calculation'>Movie Recommender-IMDB Calculation</a> 
+  - <a href='#movie-recommender-using-parameter-filtering'>Movie Recommender-Parameter Filtering</a> 
+  - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
   
-
-
-#### Surprise
-
-#### RecommendationSystems
-
-
-
-
-
-
-
-# **Branch Contents:**
-#### [1] [SURPRISE](https://github.com/rahulvaish/RecommendationSystems-Python/tree/SURPRISE) : Implementation of Recommendation System using 'Surprise' Library.
-- ###### Recommender using 'Surprise':
-  * Install 'Surprise' on Anaconda:
-  ![image](https://user-images.githubusercontent.com/689226/50178672-2a51ed00-032b-11e9-83c7-cdfde20d1b50.png)  
-  * Use Pre-defined library functions to compute Recommendations.
-<hr>
-
-#### [2] [RecommendationSystems](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems) :  Various examples on different kinds of Recommendation Systems.
-
-#### Movie Recommender - Collaborative Filtering
+  <hr>
+  
+- ###### Movie Recommender using Collaborative Filtering:
   * Load the Dataset [u.data]
   * Create User-Movie Rating Relationship Table
   * Cater Missing Values
