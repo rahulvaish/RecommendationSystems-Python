@@ -2,8 +2,8 @@
 
 <hr>
 
-## EXAMPLE#1: 
-##### MovieRecommender-IMDB - This example recommends movies by IMDB Formula applied on Dataset.
+### EXAMPLE#1: 
+###### MovieRecommender-IMDB - This example recommends movies by IMDB Formula applied on Dataset.
   * Load the Dataset [movies_metadata.csv]
   * Apply IMDB Formula
   ![image](https://user-images.githubusercontent.com/689226/50198368-53956c00-0371-11e9-9fc4-e5c082c351af.png)
@@ -13,8 +13,8 @@
 
 <hr>
 
-## EXAMPLE#2: 
-##### MovieRecommender-ParameterFiltering - This example recommends latest movies on the basis of various filters applied on the Dataset.
+### EXAMPLE#2: 
+###### MovieRecommender-ParameterFiltering - This example recommends latest movies on the basis of various filters applied on the Dataset.
   * Load the Dataset [movies_metadata.csv]
   * Filter by adult/Non-Adult Movie
   * Filter by year
@@ -25,8 +25,8 @@
   
 <hr>
 
-## EXAMPLE#3: 
-##### MovieRecommender-CollaborativeFiltering - This example demonstrates the concept of User-User Similarity and Item-Item Similarity.
+### EXAMPLE#3: 
+###### MovieRecommender-CollaborativeFiltering - This example demonstrates the concept of User-User Similarity and Item-Item Similarity.
   * Load the Dataset [u.data]
   * Create User-Movie Rating Relationship Table
   * Cater Missing Values
