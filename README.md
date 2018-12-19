@@ -3,6 +3,14 @@
 
 <hr>
 
-**To Install Surprise on Anaconda**
+## EXAMPLE#1: 
+##### Surprise-CustomDataExample - This example computes recommendations on Tailor-Made Dataset.
+  * Load the Dataset [myCustom.data]
+  * Compute Recommendations using pre-defined library functions - SVD (Singilar Value Decomposition).
 
-![surprise](https://user-images.githubusercontent.com/689226/49697395-e3eae880-fbdc-11e8-8c8c-702dc46e61b7.jpg)
+<hr>
+
+## EXAMPLE#2: 
+##### Surprise-MovieLens100KDataExample- This examplehis example computes recommendations on MovieLens 100K Dataset.
+  * Load the Dataset [u.data]
+  * Compute Recommendations using pre-defined library functions - SVD (Singilar Value Decomposition).
