@@ -1,5 +1,3 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
-
 This repository contains self-contained Recommendation System examples.
 
 ### Table of Contents
