@@ -1,17 +1,15 @@
 This repository contains self-contained Recommendation System examples.
 
 ### Table of Contents
-  - <a href='#movie-recommender-using-imdb-calculation-this-example-illustrate-how-to-recommend-movies-on-the-basis-of-IMDB Formula.'>Movie Recommender-IMDB Calculation</a> 
+  - <a href='#movie-recommender-using-imdb-calculation'>Movie Recommender-IMDB Calculation</a> 
   - <a href='#movie-recommender-using-parameter-filtering'>Movie Recommender-Parameter Filtering</a> 
   - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
   
 <hr>
  
-- ###### [Movie Recommender using IMDB Calculation: This example illustrates how to recommend movies on the basis of IMDB Formula](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB) This example illustrates how to recommend movies on the basis of IMDB Formula. 
+- ###### [Movie Recommender using IMDB Calculation](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB) 
 
-
-###### [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB)
-
+###### This example illustrates how to recommend movies on the basis of IMDB Formula. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB)
   * Load the Dataset [movies_metadata.csv]
   * Apply IMDB Formula
   ![image](https://user-images.githubusercontent.com/689226/50198368-53956c00-0371-11e9-9fc4-e5c082c351af.png)
@@ -24,7 +22,7 @@ This repository contains self-contained Recommendation System examples.
  
 - ###### [Movie Recommender using Parameter Filtering](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ParameterFiltering)
 
-###### This example recommends latest movies on the basis of various filters applied on the Dataset. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ParameterFiltering)
+###### &nbsp; This example recommends latest movies on the basis of various filters applied on the Dataset. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ParameterFiltering)
   * Load the Dataset [movies_metadata.csv]
   * Filter by adult/Non-Adult Movie
   * Filter by year
