@@ -8,7 +8,7 @@ This repository contains self-contained Recommendation System examples.
 <hr>
  
 - ###### [Movie Recommender using IMDB Calculation](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB) 
-This example illustrates how to recommend movies on the basis of IMDB Formula. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB)
+&nbsp;&nbsp;This example illustrates how to recommend movies on the basis of IMDB Formula. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB)
   
   * Load the Dataset [movies_metadata.csv]
   * Apply IMDB Formula
