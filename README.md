@@ -1,3 +1,5 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
+
 This repository contains self-contained Recommendation System examples.
 
 ### Table of Contents
@@ -8,19 +10,19 @@ This repository contains self-contained Recommendation System examples.
 <hr>
  
 - ###### [Movie Recommender using IMDB Calculation](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB) 
-&nbsp;&nbsp;This example illustrates how to recommend movies on the basis of IMDB Formula. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB)
-  
-  * Load the Dataset [movies_metadata.csv]
-  * Apply IMDB Formula
-  ![image](https://user-images.githubusercontent.com/689226/50198368-53956c00-0371-11e9-9fc4-e5c082c351af.png)
-  * Sort movies based on score calculated 
-  * Get the top n movies
-  ![image](https://user-images.githubusercontent.com/689226/50198225-a6baef00-0370-11e9-8a19-5e33f59090f8.png)
+   ###### This example illustrates how to recommend movies on the basis of IMDB Formula. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB)  
+   * Load the Dataset [movies_metadata.csv]
+   * Apply IMDB Formula
+   ![image](https://user-images.githubusercontent.com/689226/50198368-53956c00-0371-11e9-9fc4-e5c082c351af.png)
+   * Sort movies based on score calculated 
+   * Get the top n movies
+   ![image](https://user-images.githubusercontent.com/689226/50198225-a6baef00-0370-11e9-8a19-5e33f59090f8.png)
 
     
  <hr>
  
 - ###### [Movie Recommender using Parameter Filtering](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ParameterFiltering)
+   ###### This example recommends latest movies on the basis of various filters applied on the Dataset. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ParameterFiltering)
   * Load the Dataset [movies_metadata.csv]
   * Filter by adult/Non-Adult Movie
   * Filter by year
@@ -33,6 +35,7 @@ This repository contains self-contained Recommendation System examples.
   <hr>
   
 - ###### [Movie Recommender using Collaborative Filtering](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-CollaborativeFiltering)
+   ###### This example demonstrates the concept of User-User Similarity and Item-Item Similarity. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-CollaborativeFiltering)
   * Load the Dataset [u.data]
   * Create User-Movie Rating Relationship Table
   * Cater Missing Values
