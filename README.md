@@ -42,6 +42,7 @@ This repository contains self-contained Recommendation System examples.
   * Create Movie-User Rating Relationship Table
   * Cater Missing Values
   * Prepare Item-Item Similarity Matrix Dataframe [Correlation Metric] 
+  ![image](https://user-images.githubusercontent.com/689226/51094920-d970cf80-17d6-11e9-9c60-647d190a0982.png)
   * Load the Dataset [u.item]
   * Prepare user defiend functions to compute Recommendations.
  
