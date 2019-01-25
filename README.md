@@ -4,6 +4,7 @@ This repository contains self-contained Recommendation System examples.
   - <a href='#movie-recommender-using-imdb-calculation'>Movie Recommender-IMDB Calculation</a> 
   - <a href='#movie-recommender-using-parameter-filtering'>Movie Recommender-Parameter Filtering</a> 
   - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
+  - <a href='#grocery-recommender-using-apriori-algorithm'>Grocery Recommender-Apriori Algorithm</a> 
   
 <hr>
  
@@ -47,8 +48,21 @@ This repository contains self-contained Recommendation System examples.
   * Prepare user defiend functions to compute Recommendations.
  
 
-  
+    <hr>
+    
+    
+- ###### [Grocery Recommender using Apriori Algorithm](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/GroceryRecommender-Apriori)
+   ###### This example demonstrates the theory and implementation of Apriori Algorithm. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/GroceryRecommender-Apriori)
+  * Install apyori library.
+  ![image](https://user-images.githubusercontent.com/689226/51730299-f5a92200-209c-11e9-8106-e5388934ae10.png)
+  * Load the Dataset [grocery.csv]
+  * Picked top 2000 out of total 75000 records. Apriori is very expensive in calculation and computation.
+  * Convert pandas dataframe into a list of lists.(Format for Ariori Algorithm)
+  * Call apriori() function with approprite parameters.
+  * Examine the results.
 
-  
+<hr>
+
+
 
 
