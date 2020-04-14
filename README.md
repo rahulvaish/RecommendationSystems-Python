@@ -4,6 +4,7 @@ This repository contains self-contained Recommendation System examples.
   - <a href='#movie-recommender-using-imdb-calculation'>Movie Recommender-IMDB Calculation</a> 
   - <a href='#movie-recommender-using-parameter-filtering'>Movie Recommender-Parameter Filtering</a> 
   - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
+  - <a href='#movie-recommender-using-contentbased-filtering'>Movie Recommender-Contentbased Filtering</a> 
   - <a href='#grocery-recommender-using-apriori-algorithm'>Grocery Recommender-Apriori Algorithm</a> 
   
 <hr>
@@ -50,6 +51,14 @@ This repository contains self-contained Recommendation System examples.
 
     <hr>
     
+ - ###### [Movie Recommender using Contentbased Filtering](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ContentBased)
+   ###### This example demonstrates the concept of Content based Similarity (TF-IDF). [[Source Code]](  https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ContentBased)
+  * Load the Dataset [movies_metadata.csv | metadata_clean]
+  * Compute TF-IDF on movie description.
+  * Prepare user defiend functions to compute Content based Recommendations.
+ 
+    <hr>
+  
     
 - ###### [Grocery Recommender using Apriori Algorithm](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/GroceryRecommender-Apriori)
    ###### This example demonstrates the theory and implementation of Apriori Algorithm. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/GroceryRecommender-Apriori)
