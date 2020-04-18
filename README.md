@@ -51,7 +51,7 @@ This repository contains self-contained Recommendation System examples.
 
     <hr>
     
- - ###### [Movie Recommender using Contentbased Filtering](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ContentBased)
+- ###### [Movie Recommender using Contentbased Filtering](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ContentBased)
    ###### This example demonstrates the concept of Content based Similarity (TF-IDF). [[Source Code]](  https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-ContentBased)
   * Load the Dataset [movies_metadata.csv | metadata_clean]
   * Compute TF-IDF on movie description.
