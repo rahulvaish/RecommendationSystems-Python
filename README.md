@@ -6,7 +6,7 @@ This repository contains self-contained Recommendation System examples.
   - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
   - <a href='#movie-recommender-using-contentbased-filtering'>Movie Recommender-Contentbased Filtering</a> 
   - <a href='#grocery-recommender-using-apriori-algorithm'>Grocery Recommender-Apriori Algorithm</a> 
-  - <a href='#restaurant-recommender-using-popularity-similarity-approach'>Restaurant Recommender-Popularity SimilarityGrocery</a>
+  - <a href='#restaurant-recommender-using-popularity-similarity-approach'>Restaurant Recommender-Popularity Similarity Approach</a>
   
  <hr>
  
