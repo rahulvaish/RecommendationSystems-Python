@@ -6,8 +6,9 @@ This repository contains self-contained Recommendation System examples.
   - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
   - <a href='#movie-recommender-using-contentbased-filtering'>Movie Recommender-Contentbased Filtering</a> 
   - <a href='#grocery-recommender-using-apriori-algorithm'>Grocery Recommender-Apriori Algorithm</a> 
+  - <a href='#restaurant-recommender-using-popularity-similarity-approach'>Restaurant Recommender-Popularity SimilarityGrocery</a>
   
-<hr>
+ <hr>
  
 - ###### [Movie Recommender using IMDB Calculation](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB) 
    ###### This example illustrates how to recommend movies on the basis of IMDB Formula. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-IMDB)  
@@ -72,6 +73,10 @@ This repository contains self-contained Recommendation System examples.
 
 <hr>
 
-
-
+- ###### [Restaurant Recommender Using Popularity Similarity Approach](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/RestaurantRecommender-PopularitySimilarityBased)
+   ###### This example demonstrates restaurant recommendations based on Rating value/Footfall.And further suggests other restaurants of similar variant. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/RestaurantRecommender-PopularitySimilarityBased)
+  * Load the Dataset [chefmozcuisine.csv | geoplaces2.csv | rating_final.csv]
+  * Compute Popularity (Rating value/Footfall)
+  * Compute PearsonSimilarity.
+ 
 
