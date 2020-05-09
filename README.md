@@ -5,8 +5,11 @@ This repository contains self-contained Recommendation System examples.
   - <a href='#movie-recommender-using-parameter-filtering'>Movie Recommender-Parameter Filtering</a> 
   - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
   - <a href='#movie-recommender-using-contentbased-filtering'>Movie Recommender-Contentbased Filtering</a> 
+  - <a href='#movie-recommender-using-matrix-factorization'>MovieRecommender-MatrixFactorization</a>
   - <a href='#grocery-recommender-using-apriori-algorithm'>Grocery Recommender-Apriori Algorithm</a> 
   - <a href='#restaurant-recommender-using-popularity-similarity-approach'>Restaurant Recommender-Popularity Similarity Approach</a>
+
+  
   
  <hr>
  
@@ -59,7 +62,14 @@ This repository contains self-contained Recommendation System examples.
   * Prepare user defiend functions to compute Content based Recommendations.
  
     <hr>
-  
+    
+- ###### [Movie Recommender using Matrix Factorization](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-MatrixFactorization)
+   ###### This example demonstrates the concept of Matrix Factorization for recommending movies. [[Source Code]](  https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-MatrixFactorization)
+  * Load the Dataset [u.data | u.item | u.user]
+  * Compute Matrix Factorization.
+  * Give a sample and list revevant recommendations.
+ 
+    <hr>
     
 - ###### [Grocery Recommender using Apriori Algorithm](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/GroceryRecommender-Apriori)
    ###### This example demonstrates the theory and implementation of Apriori Algorithm. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/GroceryRecommender-Apriori)
