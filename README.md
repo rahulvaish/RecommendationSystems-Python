@@ -6,10 +6,11 @@ This repository contains self-contained Recommendation System examples.
   - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
   - <a href='#movie-recommender-using-contentbased-filtering'>Movie Recommender-Contentbased Filtering</a> 
   - <a href='#movie-recommender-using-matrix-factorization'>MovieRecommender-MatrixFactorization</a>
+  - <a href='#cars-recommender-using-knn'>CarsRecommender-KNN</a>
   - <a href='#grocery-recommender-using-apriori-algorithm'>Grocery Recommender-Apriori Algorithm</a> 
   - <a href='#restaurant-recommender-using-popularity-similarity-approach'>Restaurant Recommender-Popularity Similarity Approach</a>
 
-  
+
   
  <hr>
  
@@ -67,9 +68,18 @@ This repository contains self-contained Recommendation System examples.
    ###### This example demonstrates the concept of Matrix Factorization for recommending movies. [[Source Code]](  https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/MovieRecommender-MatrixFactorization)
   * Load the Dataset [u.data | u.item | u.user]
   * Compute Matrix Factorization.
-  * Give a sample and list revevant recommendations.
+  * Give a sample and get the list of revevant recommendations.
  
     <hr>
+    
+- ###### [Cars Recommender using KNN](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/CarsRecommender-KNN)
+   ###### This example demonstrates the concept of KNN for recommending movies. [[Source Code]](    https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/CarsRecommender-KNN)
+  * Load the Dataset [mtcars.csv]
+  * Compute KNN.
+  * Give a sample and get the list of revevant recommendations.
+ 
+    <hr>
+    
     
 - ###### [Grocery Recommender using Apriori Algorithm](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/GroceryRecommender-Apriori)
    ###### This example demonstrates the theory and implementation of Apriori Algorithm. [[Source Code]](https://github.com/rahulvaish/RecommendationSystems-Python/tree/RecommendationSystems/GroceryRecommender-Apriori)
